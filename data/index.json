@@ -1,0 +1,3118 @@
+{
+  "rootPath": "D:/Leumas/opensource",
+  "folders": [
+    {
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01",
+      "folderName": "leumas-cyber-01",
+      "fileCount": 9,
+      "lastModifiedAt": "2026-04-18T21:41:43.173Z",
+      "isProjectRoot": true,
+      "markers": [
+        "package.json",
+        ".git",
+        "README.md"
+      ],
+      "topExtensions": [
+        ".json",
+        "[none]",
+        ".md"
+      ]
+    },
+    {
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing",
+      "folderName": "mcp-server-testing",
+      "fileCount": 7,
+      "lastModifiedAt": "2026-04-19T03:57:19.473Z",
+      "isProjectRoot": true,
+      "markers": [
+        "package.json",
+        ".git",
+        "README.md"
+      ],
+      "topExtensions": [
+        ".json",
+        ".md",
+        "[none]"
+      ]
+    },
+    {
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline",
+      "folderName": "ollama-pipeline",
+      "fileCount": 7,
+      "lastModifiedAt": "2026-04-18T21:46:12.692Z",
+      "isProjectRoot": true,
+      "markers": [
+        "package.json",
+        ".git",
+        "README.md"
+      ],
+      "topExtensions": [
+        ".md",
+        ".json",
+        "[none]"
+      ]
+    },
+    {
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge",
+      "folderName": "rork-audio-bridge",
+      "fileCount": 4,
+      "lastModifiedAt": "2026-04-19T01:15:15.977Z",
+      "isProjectRoot": true,
+      "markers": [
+        ".git",
+        "README.md"
+      ],
+      "topExtensions": [
+        ".md",
+        "[none]",
+        ".json"
+      ]
+    },
+    {
+      "folderPath": "D:/Leumas/opensource/timeline-folder",
+      "folderName": "timeline-folder",
+      "fileCount": 7,
+      "lastModifiedAt": "2026-04-19T03:58:34.097Z",
+      "isProjectRoot": true,
+      "markers": [
+        "package.json",
+        "README.md"
+      ],
+      "topExtensions": [
+        ".md",
+        ".json",
+        "[none]"
+      ]
+    },
+    {
+      "folderPath": "D:/Leumas/opensource",
+      "folderName": "opensource",
+      "fileCount": 0,
+      "lastModifiedAt": null,
+      "isProjectRoot": false,
+      "markers": [],
+      "topExtensions": []
+    }
+  ],
+  "files": [
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/.editorconfig",
+      "name": ".editorconfig",
+      "extension": "",
+      "sizeBytes": 188,
+      "mtime": "2026-04-17T21:43:42.550Z",
+      "ctime": "2026-04-17T21:43:42.550Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/.env.example",
+      "name": ".env.example",
+      "extension": ".example",
+      "sizeBytes": 319,
+      "mtime": "2026-04-16T07:04:50.540Z",
+      "ctime": "2026-04-16T07:04:50.540Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/.gitignore",
+      "name": ".gitignore",
+      "extension": "",
+      "sizeBytes": 41,
+      "mtime": "2026-04-18T21:41:43.173Z",
+      "ctime": "2026-04-18T21:41:43.173Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/goal.md",
+      "name": "goal.md",
+      "extension": ".md",
+      "sizeBytes": 15798,
+      "mtime": "2026-04-16T06:55:57.575Z",
+      "ctime": "2026-04-16T06:56:25.823Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/package-lock.json",
+      "name": "package-lock.json",
+      "extension": ".json",
+      "sizeBytes": 114630,
+      "mtime": "2026-04-16T16:33:17.223Z",
+      "ctime": "2026-04-16T16:33:17.223Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/package.json",
+      "name": "package.json",
+      "extension": ".json",
+      "sizeBytes": 1161,
+      "mtime": "2026-04-17T22:05:43.407Z",
+      "ctime": "2026-04-17T22:05:43.407Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/README.md",
+      "name": "README.md",
+      "extension": ".md",
+      "sizeBytes": 1936,
+      "mtime": "2026-04-16T16:39:12.366Z",
+      "ctime": "2026-04-16T16:39:12.366Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/tsconfig.json",
+      "name": "tsconfig.json",
+      "extension": ".json",
+      "sizeBytes": 206,
+      "mtime": "2026-04-16T07:04:50.535Z",
+      "ctime": "2026-04-16T07:04:50.535Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/leumas-cyber-01/vitest.config.ts",
+      "name": "vitest.config.ts",
+      "extension": ".ts",
+      "sizeBytes": 228,
+      "mtime": "2026-04-18T05:29:28.967Z",
+      "ctime": "2026-04-18T05:29:28.967Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/.gitignore",
+      "name": ".gitignore",
+      "extension": "",
+      "sizeBytes": 20,
+      "mtime": "2026-04-19T03:57:19.473Z",
+      "ctime": "2026-04-19T03:57:19.473Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/goal.md",
+      "name": "goal.md",
+      "extension": ".md",
+      "sizeBytes": 4168,
+      "mtime": "2026-04-19T02:53:35.137Z",
+      "ctime": "2026-04-19T02:53:35.137Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/mcp-smoke.config.json",
+      "name": "mcp-smoke.config.json",
+      "extension": ".json",
+      "sizeBytes": 212,
+      "mtime": "2026-04-19T03:35:23.603Z",
+      "ctime": "2026-04-19T03:35:23.603Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/package-lock.json",
+      "name": "package-lock.json",
+      "extension": ".json",
+      "sizeBytes": 51024,
+      "mtime": "2026-04-19T03:21:01.512Z",
+      "ctime": "2026-04-19T03:21:01.512Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/package.json",
+      "name": "package.json",
+      "extension": ".json",
+      "sizeBytes": 567,
+      "mtime": "2026-04-19T03:21:01.468Z",
+      "ctime": "2026-04-19T03:21:01.468Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/README.md",
+      "name": "README.md",
+      "extension": ".md",
+      "sizeBytes": 1109,
+      "mtime": "2026-04-19T03:35:57.880Z",
+      "ctime": "2026-04-19T03:35:57.880Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/mcp-server-testing/tsconfig.json",
+      "name": "tsconfig.json",
+      "extension": ".json",
+      "sizeBytes": 425,
+      "mtime": "2026-04-19T03:22:07.397Z",
+      "ctime": "2026-04-19T03:22:07.397Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/.gitignore",
+      "name": ".gitignore",
+      "extension": "",
+      "sizeBytes": 12,
+      "mtime": "2026-04-18T21:46:12.692Z",
+      "ctime": "2026-04-18T21:46:12.692Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/goal.md",
+      "name": "goal.md",
+      "extension": ".md",
+      "sizeBytes": 20184,
+      "mtime": "2026-04-17T19:35:49.668Z",
+      "ctime": "2026-04-17T19:35:49.668Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/package-lock.json",
+      "name": "package-lock.json",
+      "extension": ".json",
+      "sizeBytes": 81192,
+      "mtime": "2026-04-17T20:21:48.102Z",
+      "ctime": "2026-04-17T20:21:48.102Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/package.json",
+      "name": "package.json",
+      "extension": ".json",
+      "sizeBytes": 421,
+      "mtime": "2026-04-17T20:21:48.039Z",
+      "ctime": "2026-04-17T20:21:48.039Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/README.md",
+      "name": "README.md",
+      "extension": ".md",
+      "sizeBytes": 2886,
+      "mtime": "2026-04-17T19:44:02.497Z",
+      "ctime": "2026-04-17T19:44:02.497Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/runWorkflow.js",
+      "name": "runWorkflow.js",
+      "extension": ".js",
+      "sizeBytes": 992,
+      "mtime": "2026-04-17T19:42:38.977Z",
+      "ctime": "2026-04-17T19:42:38.977Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/ollama-pipeline/WORKFLOW_IDEAS.md",
+      "name": "WORKFLOW_IDEAS.md",
+      "extension": ".md",
+      "sizeBytes": 8839,
+      "mtime": "2026-04-17T20:41:31.033Z",
+      "ctime": "2026-04-17T20:41:31.033Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/rork-audio-bridge/.gitignore",
+      "name": ".gitignore",
+      "extension": "",
+      "sizeBytes": 27,
+      "mtime": "2026-04-18T22:21:18.024Z",
+      "ctime": "2026-04-18T22:21:18.024Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/rork-audio-bridge/PLAN.md",
+      "name": "PLAN.md",
+      "extension": ".md",
+      "sizeBytes": 2339,
+      "mtime": "2026-04-18T22:21:18.024Z",
+      "ctime": "2026-04-18T22:21:18.024Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/rork-audio-bridge/README.md",
+      "name": "README.md",
+      "extension": ".md",
+      "sizeBytes": 3788,
+      "mtime": "2026-04-19T01:15:15.977Z",
+      "ctime": "2026-04-19T01:15:15.977Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/rork-audio-bridge/rork.json",
+      "name": "rork.json",
+      "extension": ".json",
+      "sizeBytes": 169,
+      "mtime": "2026-04-18T22:21:18.046Z",
+      "ctime": "2026-04-18T22:21:18.046Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/.gitignore",
+      "name": ".gitignore",
+      "extension": "",
+      "sizeBytes": 51,
+      "mtime": "2026-04-19T03:49:35.132Z",
+      "ctime": "2026-04-19T03:49:35.132Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/2.md",
+      "name": "2.md",
+      "extension": ".md",
+      "sizeBytes": 20241,
+      "mtime": "2026-04-18T23:00:52.210Z",
+      "ctime": "2026-04-18T23:00:52.210Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/GOAL.functions.md",
+      "name": "GOAL.functions.md",
+      "extension": ".md",
+      "sizeBytes": 863,
+      "mtime": "2026-04-19T03:49:35.269Z",
+      "ctime": "2026-04-19T03:49:35.269Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/GOAL.md",
+      "name": "GOAL.md",
+      "extension": ".md",
+      "sizeBytes": 1339,
+      "mtime": "2026-04-19T03:49:35.216Z",
+      "ctime": "2026-04-19T03:49:35.216Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/package-lock.json",
+      "name": "package-lock.json",
+      "extension": ".json",
+      "sizeBytes": 29391,
+      "mtime": "2026-04-19T03:58:34.097Z",
+      "ctime": "2026-04-19T03:58:34.097Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/package.json",
+      "name": "package.json",
+      "extension": ".json",
+      "sizeBytes": 427,
+      "mtime": "2026-04-19T03:49:35.076Z",
+      "ctime": "2026-04-19T03:49:35.076Z"
+    },
+    {
+      "absolutePath": "D:/Leumas/opensource/timeline-folder/README.md",
+      "name": "README.md",
+      "extension": ".md",
+      "sizeBytes": 1254,
+      "mtime": "2026-04-19T03:49:35.173Z",
+      "ctime": "2026-04-19T03:49:35.173Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/.github/workflows:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/.github/workflows",
+      "summary": "New folder indexed: workflows",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/.github:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/.github",
+      "summary": "New folder indexed: .github",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/actions:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/actions",
+      "summary": "New folder indexed: actions",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/adapters:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/adapters",
+      "summary": "New folder indexed: adapters",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents/roles:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents/roles",
+      "summary": "New folder indexed: roles",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents",
+      "summary": "New folder indexed: agents",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/audit:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/audit",
+      "summary": "New folder indexed: audit",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/auth:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/auth",
+      "summary": "New folder indexed: auth",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/cloud:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/collaboration:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/collaboration",
+      "summary": "New folder indexed: collaboration",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/cloud:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/edr:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/edr",
+      "summary": "New folder indexed: edr",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/identity:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/siem:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/siem",
+      "summary": "New folder indexed: siem",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/transports:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/transports",
+      "summary": "New folder indexed: transports",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/detections:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/docs:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/docs",
+      "summary": "New folder indexed: docs",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/endpoint:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/endpoint",
+      "summary": "New folder indexed: endpoint",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals/scorers:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals/scorers",
+      "summary": "New folder indexed: scorers",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/forensics:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/forensics",
+      "summary": "New folder indexed: forensics",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/guardrails:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/guardrails",
+      "summary": "New folder indexed: guardrails",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/identity:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest/parsers:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest/parsers",
+      "summary": "New folder indexed: parsers",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest",
+      "summary": "New folder indexed: ingest",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion/parsers:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion/parsers",
+      "summary": "New folder indexed: parsers",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion",
+      "summary": "New folder indexed: ingestion",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/jobs:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/jobs",
+      "summary": "New folder indexed: jobs",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/knowledge:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/malware:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/malware",
+      "summary": "New folder indexed: malware",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/models:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/models",
+      "summary": "New folder indexed: models",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/observability:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/observability",
+      "summary": "New folder indexed: observability",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/pipeline:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/pipeline",
+      "summary": "New folder indexed: pipeline",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/privacy:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/privacy",
+      "summary": "New folder indexed: privacy",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/prompts:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/prompts",
+      "summary": "New folder indexed: prompts",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/providers:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/providers",
+      "summary": "New folder indexed: providers",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reasoning:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reports:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reports",
+      "summary": "New folder indexed: reports",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/routes:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/routes",
+      "summary": "New folder indexed: routes",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/safety:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/safety",
+      "summary": "New folder indexed: safety",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/sandbox:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/schemas:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/schemas",
+      "summary": "New folder indexed: schemas",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/search:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/search",
+      "summary": "New folder indexed: search",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/services:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/services",
+      "summary": "New folder indexed: services",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/local:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/local",
+      "summary": "New folder indexed: local",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/migrations:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/migrations",
+      "summary": "New folder indexed: migrations",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage",
+      "summary": "New folder indexed: storage",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/threat-intel:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools/connectors:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/utils:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/validation:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/vulns:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/vulns",
+      "summary": "New folder indexed: vulns",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/workflow:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/workflow",
+      "summary": "New folder indexed: workflow",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/public:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/public",
+      "summary": "New folder indexed: public",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/api:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/components:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/components",
+      "summary": "New folder indexed: components",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/pages:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/pages",
+      "summary": "New folder indexed: pages",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/test-fixtures:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/test-fixtures",
+      "summary": "New folder indexed: test-fixtures",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/types:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/types",
+      "summary": "New folder indexed: types",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/workspace:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/workspace",
+      "summary": "New folder indexed: workspace",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web",
+      "summary": "New folder indexed: web",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps",
+      "summary": "New folder indexed: apps",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/audits:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/audits",
+      "summary": "New folder indexed: audits",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/cases:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/cases",
+      "summary": "New folder indexed: cases",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/cloud-security:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/cloud-security",
+      "summary": "New folder indexed: cloud-security",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration/notes:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration/notes",
+      "summary": "New folder indexed: notes",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration",
+      "summary": "New folder indexed: collaboration",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/detections:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/long-context:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/long-context",
+      "summary": "New folder indexed: long-context",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/reasoning:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/threat-intel:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/tools:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/actions:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/actions",
+      "summary": "New folder indexed: actions",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/agents:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/agents",
+      "summary": "New folder indexed: agents",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/alerts:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/alerts",
+      "summary": "New folder indexed: alerts",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/audit:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/audit",
+      "summary": "New folder indexed: audit",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/auth:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/auth",
+      "summary": "New folder indexed: auth",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/cloud:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/connectors:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/detections:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/endpoint:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/endpoint",
+      "summary": "New folder indexed: endpoint",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/identity:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest/mixed-case-bundle:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest/mixed-case-bundle",
+      "summary": "New folder indexed: mixed-case-bundle",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest",
+      "summary": "New folder indexed: ingest",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingestion:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingestion",
+      "summary": "New folder indexed: ingestion",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/iocs:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/iocs",
+      "summary": "New folder indexed: iocs",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/knowledge:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/malware:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/malware",
+      "summary": "New folder indexed: malware",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/observability:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/observability",
+      "summary": "New folder indexed: observability",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/privacy:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/privacy",
+      "summary": "New folder indexed: privacy",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/providers:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/providers",
+      "summary": "New folder indexed: providers",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reasoning:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reports:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reports",
+      "summary": "New folder indexed: reports",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/safety:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/safety",
+      "summary": "New folder indexed: safety",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/sandbox:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage/migration-input:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage/migration-input",
+      "summary": "New folder indexed: migration-input",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage",
+      "summary": "New folder indexed: storage",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/threat-intel:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/tools:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/validation:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/vulnerabilities:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/vulnerabilities",
+      "summary": "New folder indexed: vulnerabilities",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/workflow:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/workflow",
+      "summary": "New folder indexed: workflow",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures",
+      "summary": "New folder indexed: fixtures",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/approvals:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/approvals",
+      "summary": "New folder indexed: approvals",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/chunks:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/chunks",
+      "summary": "New folder indexed: chunks",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/snapshots:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/snapshots",
+      "summary": "New folder indexed: snapshots",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/sources:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/sources",
+      "summary": "New folder indexed: sources",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/sandbox:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/threat-intel:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/validation:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/vulnerabilities:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/vulnerabilities",
+      "summary": "New folder indexed: vulnerabilities",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data",
+      "summary": "New folder indexed: data",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/definitions:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/definitions",
+      "summary": "New folder indexed: definitions",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/admin-guide:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/admin-guide",
+      "summary": "New folder indexed: admin-guide",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/analyst-guide:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/analyst-guide",
+      "summary": "New folder indexed: analyst-guide",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/api:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/connectors:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/examples:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/examples",
+      "summary": "New folder indexed: examples",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/features:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/features",
+      "summary": "New folder indexed: features",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/getting-started:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/getting-started",
+      "summary": "New folder indexed: getting-started",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/runbooks:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/runbooks",
+      "summary": "New folder indexed: runbooks",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/security/examples:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/security/examples",
+      "summary": "New folder indexed: examples",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/security:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/security",
+      "summary": "New folder indexed: security",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/upgrades:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/upgrades",
+      "summary": "New folder indexed: upgrades",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs",
+      "summary": "New folder indexed: docs",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/scripts:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/scripts",
+      "summary": "New folder indexed: scripts",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/evals:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/integration:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/integration",
+      "summary": "New folder indexed: integration",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/security:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/security",
+      "summary": "New folder indexed: security",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/unit:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/unit",
+      "summary": "New folder indexed: unit",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/artifacts:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/artifacts",
+      "summary": "New folder indexed: artifacts",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/core:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/core",
+      "summary": "New folder indexed: core",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/transports:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/transports",
+      "summary": "New folder indexed: transports",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/utils:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/validators:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/validators",
+      "summary": "New folder indexed: validators",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/broken-server:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/broken-server",
+      "summary": "New folder indexed: broken-server",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/duplicate-tools-server:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/duplicate-tools-server",
+      "summary": "New folder indexed: duplicate-tools-server",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/good-server:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/good-server",
+      "summary": "New folder indexed: good-server",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures",
+      "summary": "New folder indexed: fixtures",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/outputs/goals:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/outputs/goals",
+      "summary": "New folder indexed: goals",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/outputs:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/outputs",
+      "summary": "New folder indexed: outputs",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/adapters:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/adapters",
+      "summary": "New folder indexed: adapters",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/cli:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/cli",
+      "summary": "New folder indexed: cli",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/core:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/core",
+      "summary": "New folder indexed: core",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/output:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/output",
+      "summary": "New folder indexed: output",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/utils:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/tests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/business:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/business",
+      "summary": "New folder indexed: business",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/creative:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/creative",
+      "summary": "New folder indexed: creative",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/dev:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/dev",
+      "summary": "New folder indexed: dev",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/education:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/education",
+      "summary": "New folder indexed: education",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/marketing:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/marketing",
+      "summary": "New folder indexed: marketing",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/productivity:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/productivity",
+      "summary": "New folder indexed: productivity",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows",
+      "summary": "New folder indexed: workflows",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AccentColor.colorset:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AccentColor.colorset",
+      "summary": "New folder indexed: AccentColor.colorset",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AppIcon.appiconset:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AppIcon.appiconset",
+      "summary": "New folder indexed: AppIcon.appiconset",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets",
+      "summary": "New folder indexed: Assets.xcassets",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Models:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Models",
+      "summary": "New folder indexed: Models",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Services:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Services",
+      "summary": "New folder indexed: Services",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/ViewModels:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/ViewModels",
+      "summary": "New folder indexed: ViewModels",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Views:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Views",
+      "summary": "New folder indexed: Views",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay",
+      "summary": "New folder indexed: AudioRelay",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj/project.xcworkspace:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj/project.xcworkspace",
+      "summary": "New folder indexed: project.xcworkspace",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj",
+      "summary": "New folder indexed: AudioRelay.xcodeproj",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayTests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayTests",
+      "summary": "New folder indexed: AudioRelayTests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayUITests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayUITests",
+      "summary": "New folder indexed: AudioRelayUITests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios",
+      "summary": "New folder indexed: ios",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/server:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/server",
+      "summary": "New folder indexed: server",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/web/public:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/web/public",
+      "summary": "New folder indexed: public",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/web:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/web",
+      "summary": "New folder indexed: web",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/client:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/client",
+      "summary": "New folder indexed: client",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/config:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/config",
+      "summary": "New folder indexed: config",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/data:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/data",
+      "summary": "New folder indexed: data",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/routes:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/routes",
+      "summary": "New folder indexed: routes",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/ollama:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/ollama",
+      "summary": "New folder indexed: ollama",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/scanner:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/scanner",
+      "summary": "New folder indexed: scanner",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/search:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/search",
+      "summary": "New folder indexed: search",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/timeline:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/timeline",
+      "summary": "New folder indexed: timeline",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services",
+      "summary": "New folder indexed: services",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/utils:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server",
+      "summary": "New folder indexed: server",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/tests:2026-04-19T04:35:47.998Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:35:47.998Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/.github/workflows:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/.github/workflows",
+      "summary": "New folder indexed: workflows",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/.github:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/.github",
+      "summary": "New folder indexed: .github",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/actions:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/actions",
+      "summary": "New folder indexed: actions",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/adapters:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/adapters",
+      "summary": "New folder indexed: adapters",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents/roles:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents/roles",
+      "summary": "New folder indexed: roles",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/agents",
+      "summary": "New folder indexed: agents",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/audit:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/audit",
+      "summary": "New folder indexed: audit",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/auth:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/auth",
+      "summary": "New folder indexed: auth",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/cloud:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/collaboration:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/collaboration",
+      "summary": "New folder indexed: collaboration",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/cloud:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/edr:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/edr",
+      "summary": "New folder indexed: edr",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/identity:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/siem:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/siem",
+      "summary": "New folder indexed: siem",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/transports:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors/transports",
+      "summary": "New folder indexed: transports",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/detections:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/docs:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/docs",
+      "summary": "New folder indexed: docs",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/endpoint:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/endpoint",
+      "summary": "New folder indexed: endpoint",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals/scorers:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals/scorers",
+      "summary": "New folder indexed: scorers",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/forensics:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/forensics",
+      "summary": "New folder indexed: forensics",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/guardrails:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/guardrails",
+      "summary": "New folder indexed: guardrails",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/identity:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest/parsers:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest/parsers",
+      "summary": "New folder indexed: parsers",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingest",
+      "summary": "New folder indexed: ingest",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion/parsers:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion/parsers",
+      "summary": "New folder indexed: parsers",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/ingestion",
+      "summary": "New folder indexed: ingestion",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/jobs:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/jobs",
+      "summary": "New folder indexed: jobs",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/knowledge:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/malware:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/malware",
+      "summary": "New folder indexed: malware",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/models:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/models",
+      "summary": "New folder indexed: models",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/observability:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/observability",
+      "summary": "New folder indexed: observability",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/pipeline:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/pipeline",
+      "summary": "New folder indexed: pipeline",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/privacy:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/privacy",
+      "summary": "New folder indexed: privacy",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/prompts:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/prompts",
+      "summary": "New folder indexed: prompts",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/providers:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/providers",
+      "summary": "New folder indexed: providers",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reasoning:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reports:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/reports",
+      "summary": "New folder indexed: reports",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/routes:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/routes",
+      "summary": "New folder indexed: routes",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/safety:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/safety",
+      "summary": "New folder indexed: safety",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/sandbox:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/schemas:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/schemas",
+      "summary": "New folder indexed: schemas",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/search:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/search",
+      "summary": "New folder indexed: search",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/services:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/services",
+      "summary": "New folder indexed: services",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/local:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/local",
+      "summary": "New folder indexed: local",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/migrations:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage/migrations",
+      "summary": "New folder indexed: migrations",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/storage",
+      "summary": "New folder indexed: storage",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/threat-intel:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools/connectors:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/utils:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/validation:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/vulns:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/vulns",
+      "summary": "New folder indexed: vulns",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/workflow:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src/workflow",
+      "summary": "New folder indexed: workflow",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/api:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/public:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/public",
+      "summary": "New folder indexed: public",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/api:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/components:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/components",
+      "summary": "New folder indexed: components",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/pages:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/pages",
+      "summary": "New folder indexed: pages",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/test-fixtures:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/test-fixtures",
+      "summary": "New folder indexed: test-fixtures",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/types:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/types",
+      "summary": "New folder indexed: types",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/workspace:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src/workspace",
+      "summary": "New folder indexed: workspace",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps/web:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps/web",
+      "summary": "New folder indexed: web",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/apps:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/apps",
+      "summary": "New folder indexed: apps",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/audits:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/audits",
+      "summary": "New folder indexed: audits",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/cases:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/cases",
+      "summary": "New folder indexed: cases",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/cloud-security:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/cloud-security",
+      "summary": "New folder indexed: cloud-security",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration/notes:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration/notes",
+      "summary": "New folder indexed: notes",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/collaboration",
+      "summary": "New folder indexed: collaboration",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/detections:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/long-context:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/long-context",
+      "summary": "New folder indexed: long-context",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/reasoning:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/threat-intel:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals/tools:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/evals:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/actions:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/actions",
+      "summary": "New folder indexed: actions",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/agents:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/agents",
+      "summary": "New folder indexed: agents",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/alerts:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/alerts",
+      "summary": "New folder indexed: alerts",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/audit:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/audit",
+      "summary": "New folder indexed: audit",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/auth:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/auth",
+      "summary": "New folder indexed: auth",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/cloud:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/cloud",
+      "summary": "New folder indexed: cloud",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/connectors:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/detections:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/detections",
+      "summary": "New folder indexed: detections",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/endpoint:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/endpoint",
+      "summary": "New folder indexed: endpoint",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/identity:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/identity",
+      "summary": "New folder indexed: identity",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest/mixed-case-bundle:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest/mixed-case-bundle",
+      "summary": "New folder indexed: mixed-case-bundle",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingest",
+      "summary": "New folder indexed: ingest",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingestion:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/ingestion",
+      "summary": "New folder indexed: ingestion",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/iocs:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/iocs",
+      "summary": "New folder indexed: iocs",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/knowledge:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/malware:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/malware",
+      "summary": "New folder indexed: malware",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/observability:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/observability",
+      "summary": "New folder indexed: observability",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/privacy:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/privacy",
+      "summary": "New folder indexed: privacy",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/providers:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/providers",
+      "summary": "New folder indexed: providers",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reasoning:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reasoning",
+      "summary": "New folder indexed: reasoning",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reports:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/reports",
+      "summary": "New folder indexed: reports",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/safety:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/safety",
+      "summary": "New folder indexed: safety",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/sandbox:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage/migration-input:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage/migration-input",
+      "summary": "New folder indexed: migration-input",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/storage",
+      "summary": "New folder indexed: storage",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/threat-intel:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/tools:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/tools",
+      "summary": "New folder indexed: tools",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/validation:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/vulnerabilities:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/vulnerabilities",
+      "summary": "New folder indexed: vulnerabilities",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/workflow:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures/workflow",
+      "summary": "New folder indexed: workflow",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/fixtures",
+      "summary": "New folder indexed: fixtures",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/approvals:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/approvals",
+      "summary": "New folder indexed: approvals",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/chunks:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/chunks",
+      "summary": "New folder indexed: chunks",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/snapshots:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/snapshots",
+      "summary": "New folder indexed: snapshots",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/sources:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge/sources",
+      "summary": "New folder indexed: sources",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/knowledge",
+      "summary": "New folder indexed: knowledge",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/sandbox:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/sandbox",
+      "summary": "New folder indexed: sandbox",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/threat-intel:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/threat-intel",
+      "summary": "New folder indexed: threat-intel",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/validation:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/validation",
+      "summary": "New folder indexed: validation",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data/vulnerabilities:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data/vulnerabilities",
+      "summary": "New folder indexed: vulnerabilities",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/data:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/data",
+      "summary": "New folder indexed: data",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/definitions:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/definitions",
+      "summary": "New folder indexed: definitions",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/admin-guide:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/admin-guide",
+      "summary": "New folder indexed: admin-guide",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/analyst-guide:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/analyst-guide",
+      "summary": "New folder indexed: analyst-guide",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/api:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/api",
+      "summary": "New folder indexed: api",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/connectors:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/connectors",
+      "summary": "New folder indexed: connectors",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/examples:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/examples",
+      "summary": "New folder indexed: examples",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/features:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/features",
+      "summary": "New folder indexed: features",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/getting-started:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/getting-started",
+      "summary": "New folder indexed: getting-started",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/runbooks:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/runbooks",
+      "summary": "New folder indexed: runbooks",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/security/examples:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/security/examples",
+      "summary": "New folder indexed: examples",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/security:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/security",
+      "summary": "New folder indexed: security",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs/upgrades:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs/upgrades",
+      "summary": "New folder indexed: upgrades",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/docs:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/docs",
+      "summary": "New folder indexed: docs",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/scripts:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/scripts",
+      "summary": "New folder indexed: scripts",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/evals:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/evals",
+      "summary": "New folder indexed: evals",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/integration:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/integration",
+      "summary": "New folder indexed: integration",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/security:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/security",
+      "summary": "New folder indexed: security",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests/unit:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests/unit",
+      "summary": "New folder indexed: unit",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01/tests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/leumas-cyber-01:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/leumas-cyber-01",
+      "summary": "New folder indexed: leumas-cyber-01",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/artifacts:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/artifacts",
+      "summary": "New folder indexed: artifacts",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/core:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/core",
+      "summary": "New folder indexed: core",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/transports:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/transports",
+      "summary": "New folder indexed: transports",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/utils:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src/validators:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src/validators",
+      "summary": "New folder indexed: validators",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/src:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/broken-server:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/broken-server",
+      "summary": "New folder indexed: broken-server",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/duplicate-tools-server:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/duplicate-tools-server",
+      "summary": "New folder indexed: duplicate-tools-server",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/good-server:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures/good-server",
+      "summary": "New folder indexed: good-server",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests/fixtures",
+      "summary": "New folder indexed: fixtures",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing/tests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/mcp-server-testing:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/mcp-server-testing",
+      "summary": "New folder indexed: mcp-server-testing",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/outputs/goals:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/outputs/goals",
+      "summary": "New folder indexed: goals",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/outputs:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/outputs",
+      "summary": "New folder indexed: outputs",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/adapters:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/adapters",
+      "summary": "New folder indexed: adapters",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/cli:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/cli",
+      "summary": "New folder indexed: cli",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/core:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/core",
+      "summary": "New folder indexed: core",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/output:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/output",
+      "summary": "New folder indexed: output",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src/utils:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/src:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/src",
+      "summary": "New folder indexed: src",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/tests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/business:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/business",
+      "summary": "New folder indexed: business",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/creative:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/creative",
+      "summary": "New folder indexed: creative",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/dev:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/dev",
+      "summary": "New folder indexed: dev",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/education:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/education",
+      "summary": "New folder indexed: education",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/marketing:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/marketing",
+      "summary": "New folder indexed: marketing",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows/productivity:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows/productivity",
+      "summary": "New folder indexed: productivity",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline/workflows:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline/workflows",
+      "summary": "New folder indexed: workflows",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/ollama-pipeline:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/ollama-pipeline",
+      "summary": "New folder indexed: ollama-pipeline",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AccentColor.colorset:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AccentColor.colorset",
+      "summary": "New folder indexed: AccentColor.colorset",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AppIcon.appiconset:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets/AppIcon.appiconset",
+      "summary": "New folder indexed: AppIcon.appiconset",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Assets.xcassets",
+      "summary": "New folder indexed: Assets.xcassets",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Models:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Models",
+      "summary": "New folder indexed: Models",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Services:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Services",
+      "summary": "New folder indexed: Services",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/ViewModels:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/ViewModels",
+      "summary": "New folder indexed: ViewModels",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Views:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay/Views",
+      "summary": "New folder indexed: Views",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay",
+      "summary": "New folder indexed: AudioRelay",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj/project.xcworkspace:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj/project.xcworkspace",
+      "summary": "New folder indexed: project.xcworkspace",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelay.xcodeproj",
+      "summary": "New folder indexed: AudioRelay.xcodeproj",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayTests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayTests",
+      "summary": "New folder indexed: AudioRelayTests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayUITests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios/AudioRelayUITests",
+      "summary": "New folder indexed: AudioRelayUITests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/ios:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/ios",
+      "summary": "New folder indexed: ios",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/server:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/server",
+      "summary": "New folder indexed: server",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/web/public:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/web/public",
+      "summary": "New folder indexed: public",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge/web:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge/web",
+      "summary": "New folder indexed: web",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/rork-audio-bridge:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/rork-audio-bridge",
+      "summary": "New folder indexed: rork-audio-bridge",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/client:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/client",
+      "summary": "New folder indexed: client",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/config:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/config",
+      "summary": "New folder indexed: config",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/data:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/data",
+      "summary": "New folder indexed: data",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/routes:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/routes",
+      "summary": "New folder indexed: routes",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/ollama:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/ollama",
+      "summary": "New folder indexed: ollama",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/scanner:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/scanner",
+      "summary": "New folder indexed: scanner",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/search:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/search",
+      "summary": "New folder indexed: search",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services/timeline:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services/timeline",
+      "summary": "New folder indexed: timeline",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/services:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/services",
+      "summary": "New folder indexed: services",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server/utils:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server/utils",
+      "summary": "New folder indexed: utils",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/server:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/server",
+      "summary": "New folder indexed: server",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder/tests:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder/tests",
+      "summary": "New folder indexed: tests",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource/timeline-folder:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource/timeline-folder",
+      "summary": "New folder indexed: timeline-folder",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    },
+    {
+      "id": "D:/Leumas/opensource:2026-04-19T04:06:55.055Z:new",
+      "eventType": "folder_discovered",
+      "folderPath": "D:/Leumas/opensource",
+      "summary": "New folder indexed: opensource",
+      "detectedAt": "2026-04-19T04:06:55.055Z"
+    }
+  ],
+  "lastScanAt": "2026-04-19T04:35:49.827Z"
+}

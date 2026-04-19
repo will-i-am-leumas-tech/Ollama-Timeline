@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Leumas Folder Timeline — HUD</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="top-bar">
+        <div class="brand">
+          <span class="logo">📡</span>
+          <h1>Timeline<span class="muted">Folder</span></h1>
+        </div>
+        <div class="path-display">
+          <span class="icon">📁</span>
+          <span id="currentRootPath" class="path-text">...</span>
+        </div>
+        <div class="top-actions">
+          <button id="depthToggleBtn" title="Toggle Shallow/Deep Scan">🎯</button>
+          <button id="scanBtn" title="Run Scan">🔄</button>
+          <button id="searchToggleBtn" title="Toggle Search">🔍</button>
+          <button id="settingsToggleBtn" title="Settings">⚙️</button>
+          <div id="statusDot" class="status-dot" title="Idle"></div>
+        </div>
+      </header>
+
+      <div class="main-container">
+        <nav class="utility-rail">
+          <button class="rail-item active" data-view="timeline" title="Timeline Feed">🕒</button>
+          <button class="rail-item" data-view="folders" title="Recent Folders">📂</button>
+          <button class="rail-item" data-view="ai" title="AI Intelligence">🧠</button>
+        </nav>
+
+        <main class="main-viewport">
+          <div id="searchBar" class="search-bar hidden">
+            <input id="searchInput" placeholder="Search folders or events..." />
+            <button id="searchBtn">Find</button>
+          </div>
+          
+          <div id="viewTitle" class="view-header">
+            <h2>Recent Timeline</h2>
+            <span id="statusText" class="muted small">System Ready</span>
+          </div>
+
+          <div id="feed" class="scroll-area">
+            <!-- Timeline or Folder cards injected here -->
+            <div class="loading-shimmer">Indexing local activity...</div>
+          </div>
+        </main>
+
+        <aside id="detailsPanel" class="details-panel">
+          <div class="panel-header">
+            <h3>Inspector</h3>
+            <button id="closeDetailsBtn" class="icon-only">✖</button>
+          </div>
+          <div id="detailsContent" class="details-content">
+            <div class="empty-state">
+              <span class="icon large">📡</span>
+              <p>Select an event to inspect details</p>
+            </div>
+          </div>
+          
+          <div class="ai-section">
+            <div class="ai-header">
+              <span class="icon">🧠</span>
+              <h4>Intelligence</h4>
+            </div>
+            <textarea id="questionInput" rows="3" placeholder="Ask about recent work..."></textarea>
+            <button id="askBtn" class="btn-accent">➤ Ask Ollama</button>
+            <div id="summaryBox" class="ai-response small"></div>
+          </div>
+        </aside>
+      </div>
+
+      <!-- Settings Overlay / Modal -->
+      <div id="settingsOverlay" class="overlay hidden">
+        <div class="modal panel">
+          <div class="row between">
+            <h2>Configuration</h2>
+            <button id="closeSettingsBtn" class="icon-only">✖</button>
+          </div>
+          <div class="settings-form">
+            <label>Root Directory</label>
+            <input id="rootPathInput" type="text" />
+            <label>Ignore Patterns (comma-separated)</label>
+            <input id="ignorePatternsInput" type="text" />
+            <button id="saveConfigBtn" class="btn-accent">Save Changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

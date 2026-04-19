@@ -1,0 +1,24 @@
+{
+  "rootPath": "D:\\Leumas\\opensource",
+  "ignorePatterns": [
+    "node_modules",
+    "dist",
+    "build",
+    "imperium",
+    ".git",
+    ".next",
+    ".cache",
+    "coverage",
+    "tmp",
+    "temp",
+    "logs",
+    "vendor",
+    "bin",
+    "obj"
+  ],
+  "watchEnabled": false,
+  "maxTimelineResults": 100,
+  "recentWindowDays": 7,
+  "ollamaModel": "llama3",
+  "scanDepth": 1
+}
