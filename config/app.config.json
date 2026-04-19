@@ -19,6 +19,7 @@
   "watchEnabled": false,
   "maxTimelineResults": 100,
   "recentWindowDays": 7,
-  "ollamaModel": "llama3",
-  "scanDepth": 1
+  "ollamaModel": "qwen2.5:7b",
+  "scanDepth": 1,
+  "ollamaBaseUrl": ""
 }

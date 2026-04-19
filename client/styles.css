@@ -225,7 +225,7 @@ button.icon-only { padding: 4px 8px; font-size: 1.1rem; }
 }
 .btn-accent:hover { opacity: 0.9; box-shadow: 0 0 15px rgba(0, 198, 255, 0.4); }
 
-input, textarea {
+input, textarea, select {
   width: 100%;
   background: var(--bg-deep);
   border: 1px solid var(--border);
@@ -236,7 +236,7 @@ input, textarea {
   margin-bottom: 12px;
 }
 
-input:focus, textarea:focus {
+input:focus, textarea:focus, select:focus {
   outline: none;
   border-color: var(--accent);
   box-shadow: 0 0 0 2px var(--accent-glow);

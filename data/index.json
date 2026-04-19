@@ -72,10 +72,11 @@
       "folderPath": "D:/Leumas/opensource/timeline-folder",
       "folderName": "timeline-folder",
       "fileCount": 7,
-      "lastModifiedAt": "2026-04-19T03:58:34.097Z",
+      "lastModifiedAt": "2026-04-19T04:42:28.681Z",
       "isProjectRoot": true,
       "markers": [
         "package.json",
+        ".git",
         "README.md"
       ],
       "topExtensions": [
@@ -363,12 +364,19 @@
       "absolutePath": "D:/Leumas/opensource/timeline-folder/README.md",
       "name": "README.md",
       "extension": ".md",
-      "sizeBytes": 1254,
-      "mtime": "2026-04-19T03:49:35.173Z",
-      "ctime": "2026-04-19T03:49:35.173Z"
+      "sizeBytes": 3071,
+      "mtime": "2026-04-19T04:42:28.681Z",
+      "ctime": "2026-04-19T04:42:28.681Z"
     }
   ],
   "events": [
+    {
+      "id": "D:/Leumas/opensource/timeline-folder:2026-04-19T04:48:16.491Z:changed",
+      "eventType": "folder_changed",
+      "folderPath": "D:/Leumas/opensource/timeline-folder",
+      "summary": "Recent project activity in timeline-folder (7 direct files)",
+      "detectedAt": "2026-04-19T04:48:16.491Z"
+    },
     {
       "id": "D:/Leumas/opensource/leumas-cyber-01/.github/workflows:2026-04-19T04:35:47.998Z:new",
       "eventType": "folder_discovered",
@@ -3114,5 +3122,5 @@
       "detectedAt": "2026-04-19T04:06:55.055Z"
     }
   ],
-  "lastScanAt": "2026-04-19T04:35:49.827Z"
+  "lastScanAt": "2026-04-19T04:48:16.491Z"
 }

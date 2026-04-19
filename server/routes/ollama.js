@@ -1,7 +1,11 @@
 import { Router } from 'express';
-import { askOllamaAboutRecentWork, buildRecentWorkContext } from '../services/ollama.js';
+import { askOllamaAboutRecentWork, buildRecentWorkContext, getAvailableModels } from '../services/ollama.js';
 
 const router = Router();
+
+router.get('/models', async (_req, res) => {
+  res.json(await getAvailableModels());
+});
 
 router.post('/ask', async (req, res) => {
   const question = req.body?.question || 'What did I work on recently?';

@@ -25,6 +25,20 @@ export async function buildRecentWorkContext(question, { limit = 8 } = {}) {
   };
 }
 
+export async function getAvailableModels() {
+  const config = await getAppConfig();
+  const baseUrl = config.ollamaBaseUrl || process.env.OLLAMA_BASE_URL || 'http://localhost:11434';
+  
+  try {
+    const response = await fetch(`${baseUrl.replace(/\/$/, '')}/api/tags`);
+    if (!response.ok) return [];
+    const data = await response.json();
+    return data.models || [];
+  } catch {
+    return [];
+  }
+}
+
 export async function askOllamaAboutRecentWork(question) {
   const context = await buildRecentWorkContext(question);
   const config = await getAppConfig();

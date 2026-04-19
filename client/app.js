@@ -24,7 +24,9 @@ const els = {
   questionInput: document.getElementById('questionInput'),
   settingsOverlay: document.getElementById('settingsOverlay'),
   rootPathInput: document.getElementById('rootPathInput'),
-  ignorePatternsInput: document.getElementById('ignorePatternsInput')
+  ignorePatternsInput: document.getElementById('ignorePatternsInput'),
+  ollamaUrlInput: document.getElementById('ollamaUrlInput'),
+  modelSelect: document.getElementById('modelSelect')
 };
 
 // --- Core API Helpers ---
@@ -188,13 +190,37 @@ async function loadConfig() {
   state.config = await json('/api/config');
   state.scanDepth = state.config.scanDepth !== undefined ? state.config.scanDepth : -1;
   updateDepthUI();
-  
+
   els.currentRootPath.textContent = state.config.rootPath || 'Not set';
   els.rootPathInput.value = state.config.rootPath || '';
   els.ignorePatternsInput.value = (state.config.ignorePatterns || []).join(', ');
+  els.ollamaUrlInput.value = state.config.ollamaBaseUrl || '';
+  
+  await loadModels();
 }
 
-function updateDepthUI() {
+async function loadModels() {
+  try {
+    const models = await json('/api/ollama/models');
+    els.modelSelect.innerHTML = '';
+    if (!models || models.length === 0) {
+      els.modelSelect.innerHTML = '<option value="">No models found (Check Ollama)</option>';
+      return;
+    }
+    
+    models.forEach(m => {
+      const opt = document.createElement('option');
+      opt.value = m.name;
+      opt.textContent = m.name;
+      if (m.name === state.config.ollamaModel) opt.selected = true;
+      els.modelSelect.appendChild(opt);
+    });
+  } catch (err) {
+    els.modelSelect.innerHTML = '<option value="">Error connecting to Ollama</option>';
+  }
+}
+
+async function updateDepthUI() {
   if (state.scanDepth === 1) {
     els.depthToggleBtn.classList.add('active');
     els.depthToggleBtn.title = 'Shallow Scan Active (Children Only)';
@@ -207,11 +233,13 @@ function updateDepthUI() {
 async function saveConfig() {
   const rootPath = els.rootPathInput.value.trim();
   const ignorePatterns = els.ignorePatternsInput.value.split(',').map(s => s.trim()).filter(Boolean);
+  const ollamaBaseUrl = els.ollamaUrlInput.value.trim();
+  const ollamaModel = els.modelSelect.value;
   
   await json('/api/config', {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ rootPath, ignorePatterns })
+    body: JSON.stringify({ rootPath, ignorePatterns, ollamaBaseUrl, ollamaModel })
   });
   
   els.settingsOverlay.classList.add('hidden');
