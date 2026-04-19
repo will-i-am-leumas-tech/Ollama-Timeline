@@ -20,7 +20,8 @@ const els = {
   depthToggleBtn: document.getElementById('depthToggleBtn'),
   detailsContent: document.getElementById('detailsContent'),
   detailsPanel: document.getElementById('detailsPanel'),
-  summaryBox: document.getElementById('summaryBox'),
+  chatHistory: document.getElementById('chatHistory'),
+  clearChatBtn: document.getElementById('clearChatBtn'),
   questionInput: document.getElementById('questionInput'),
   settingsOverlay: document.getElementById('settingsOverlay'),
   rootPathInput: document.getElementById('rootPathInput'),
@@ -248,19 +249,50 @@ async function saveConfig() {
 }
 
 async function askQuestion() {
-  const question = els.questionInput.value.trim() || 'What did I work on recently?';
-  els.summaryBox.textContent = 'Consulting Intelligence...';
+  const question = els.questionInput.value.trim();
+  if (!question) return;
+
+  appendMessage('user', question);
+  els.questionInput.value = '';
   
-  const result = await json('/api/ollama/ask', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ question })
-  });
+  const loadingMsg = appendMessage('assistant', 'Consulting Intelligence...');
+
+  try {
+    const result = await json('/api/ollama/ask', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question })
+    });
+    
+    loadingMsg.innerHTML = `<p>${result.answer || 'No response from intelligence.'}</p>`;
+  } catch (err) {
+    loadingMsg.innerHTML = '<p>Error: Could not reach intelligence.</p>';
+  }
   
-  els.summaryBox.textContent = result.answer || 'No response from intelligence.';
+  els.chatHistory.scrollTop = els.chatHistory.scrollHeight;
+}
+
+function appendMessage(role, text) {
+  const msg = document.createElement('div');
+  msg.className = `chat-msg ${role}`;
+  msg.innerHTML = `<p>${text}</p>`;
+  els.chatHistory.appendChild(msg);
+  els.chatHistory.scrollTop = els.chatHistory.scrollHeight;
+  return msg;
 }
 
 // --- Event Listeners ---
+els.clearChatBtn.onclick = () => {
+  els.chatHistory.innerHTML = '<div class="chat-msg system"><p>History cleared. Ready for new context.</p></div>';
+};
+
+els.questionInput.onkeydown = (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    askQuestion();
+  }
+};
+
 els.depthToggleBtn.onclick = async () => {
   state.scanDepth = state.scanDepth === 1 ? -1 : 1;
   updateDepthUI();
